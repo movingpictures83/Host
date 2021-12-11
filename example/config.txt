@@ -1,0 +1,2 @@
+Prefix plugins/Host/example
+Plugin Host inputfile parameters.txt outputfile host.fastq
